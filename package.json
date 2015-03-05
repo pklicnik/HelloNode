@@ -1,0 +1,14 @@
+{
+  "name": "hellonode",
+  "description": "A test Hello World application",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.6.3"
+  },
+  "engines": {
+    "node": "0.10.26"
+  },
+  "version": "0.0.1"
+}
