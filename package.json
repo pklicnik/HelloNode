@@ -3,6 +3,9 @@
   "description": "A test Hello World application",
   "dependencies": {
   },
+  "scripts": {
+    "start": "node app.js"
+  },
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-jshint": "~0.6.3"
