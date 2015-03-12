@@ -1,8 +1,0 @@
-web:
-  build: .
-  links:
-   - db
-  ports:
-   - "3000:3000"
-db:
-  image: postgres
