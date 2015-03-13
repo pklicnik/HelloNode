@@ -1,0 +1,8 @@
+web:
+  build: .
+  links:
+   - nginx
+  ports:
+   - "3000:3000"
+nginx:
+  image: dockerfile/nginx
